@@ -14,6 +14,4 @@ The backend is built with node.js , express.js Framework ,and MongoDb Database
 
 Generic Crud Api (Create / Read / Update / Delete)
 
-Admin (User) Management Api
-
 Auth by Jwt json web token
